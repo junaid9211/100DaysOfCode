@@ -4,8 +4,8 @@ Guys I am starting 100 days of code course by Angela Yu on udemy
 **Wish me luck** 😊😊😊
 
 ## My Progress
-- [ ] Day 1
-- [ ] Day 2
+- [x] Day 1
+- [x] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
