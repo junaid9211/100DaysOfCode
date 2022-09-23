@@ -8,7 +8,7 @@ Guys I am starting 100 days of code course by Angela Yu on udemy
 | Days 1-10 | Days 11-20 |
 |--- | ---|
 | <li>- [x] Day 1</li>| <li>- [x] Day 11</li> | 
-| <li>- [x] Day 2</li>| <li>- [ ] Day 12</li> |
+| <li>- [x] Day 2</li>| <li>- [x] Day 12</li> |
 | <li>- [x] Day 3</li>| <li>- [ ] Day 13</li> |
 | <li>- [x] Day 4</li>| <li>- [ ] Day 14</li> |
 | <li>- [x] Day 5</li>| <li>- [ ] Day 15</li> |
