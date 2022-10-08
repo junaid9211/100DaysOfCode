@@ -6,7 +6,7 @@ Guys I am starting 100 days of code course by Angela Yu on udemy
 ## My Progress
 
 | Days 1-10 | Days 11-20 | Days 21-30 | Days 31-40 | Days 41-50 |
-|--- | ---|--- | ---|
+|--- | ---|--- | ---|---|
 | <li>- [x] Day 1</li>| <li>- [x] Day 11</li> | <li>- [x] Day 21</li> | <li>- [ ] Day 31</li> | <li>- [ ] Day 41</li> | 
 | <li>- [x] Day 2</li>| <li>- [x] Day 12</li> | <li>- [x] Day 22</li> | <li>- [ ] Day 32</li> | <li>- [ ] Day 42</li> | 
 | <li>- [x] Day 3</li>| <li>- [x] Day 13</li> | <li>- [x] Day 23</li> | <li>- [ ] Day 33</li> | <li>- [ ] Day 43</li> | 
