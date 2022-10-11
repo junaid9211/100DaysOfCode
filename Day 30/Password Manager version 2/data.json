@@ -1,0 +1,18 @@
+{
+    "udemy": {
+        "email": "junaid@gmail.com",
+        "password": "jun123"
+    },
+    "facebook": {
+        "email": "admin@example.com",
+        "password": "s1j!DeB(926LIiCb*&"
+    },
+    "instagram": {
+        "email": "admin@example.com",
+        "password": "aeIq$g7BHv0FK%!"
+    },
+    "amazon": {
+        "email": "junaid@hotmail.com",
+        "password": "7jXLrPD1ZO$J8*"
+    }
+}
