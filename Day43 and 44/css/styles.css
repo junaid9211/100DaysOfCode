@@ -1,0 +1,107 @@
+h1 {
+    margin: 50px auto 0px;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+}
+
+hr {
+    width: 5%;
+    border-top: 8px dotted #c0c2c2;
+    margin: 100px auto;
+}
+
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    margin: 100px auto;
+}
+
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.pro {
+    text-decoration: underline;
+}
+
+
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+} 
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 70px 0;
+}
+
+.footer-link {
+    color: #11999E;
+    font-weight: bold;
+}
+
+.footer-text {
+    color: white;
+}
+
+.get-in-touch {
+    color: white;
+}
+
+.my-desc {
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+
+
+
