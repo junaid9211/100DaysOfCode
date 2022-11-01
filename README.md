@@ -11,7 +11,7 @@ Guys I am starting 100 days of code course by Angela Yu on udemy
 | <li>- [x] Day 2</li>| <li>- [x] Day 12</li> | <li>- [x] Day 22</li> | <li>- [x] Day 32</li> | <li>- [x] Day 42</li> | 
 | <li>- [x] Day 3</li>| <li>- [x] Day 13</li> | <li>- [x] Day 23</li> | <li>- [x] Day 33</li> | <li>- [x] Day 43</li> | 
 | <li>- [x] Day 4</li>| <li>- [x] Day 14</li> | <li>- [x] Day 24</li> | <li>- [x] Day 34</li> | <li>- [x] Day 44</li> | 
-| <li>- [x] Day 5</li>| <li>- [x] Day 15</li> | <li>- [x] Day 25</li> | <li>- [x] Day 35</li> | <li>- [ ] Day 45</li> | 
+| <li>- [x] Day 5</li>| <li>- [x] Day 15</li> | <li>- [x] Day 25</li> | <li>- [x] Day 35</li> | <li>- [x] Day 45</li> | 
 | <li>- [x] Day 6</li>| <li>- [x] Day 16</li> | <li>- [x] Day 26</li> | <li>- [x] Day 36</li> | <li>- [ ] Day 46</li> | 
 | <li>- [x] Day 7</li>| <li>- [x] Day 17</li> | <li>- [x] Day 27</li> | <li>- [x] Day 37</li> | <li>- [ ] Day 47</li> | 
 | <li>- [x] Day 8</li>| <li>- [x] Day 18</li> | <li>- [x] Day 28</li> | <li>- [x] Day 38</li> | <li>- [ ] Day 48</li> | 
